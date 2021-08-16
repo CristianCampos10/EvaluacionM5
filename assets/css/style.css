@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/639/682/532/band-music-red-hot-chili-peppers-wallpaper-preview.jpg");   
+    background-size: cover;
+    background-position: center;
+    font-family: 'Economica', sans-serif;
+    color: white;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+    text-align: center;
+}
+
+html {
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+ol {
+    text-align: justify;
+}
+
+ul {
+    text-align: justify;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+h4 {
+    text-align: center;
+    font-size: small;
+}
+
+img{
+border-radius: 20px;
+}
+
